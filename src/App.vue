@@ -31,18 +31,26 @@
     </ul>
   </header>
 
-  <download/>
+  <v-download/>
+  <otl-code>
+    <otl-p>ㅅㅁㅅ</otl-p>&nbsp;안녕하세요.
+  </otl-code>
 
 </template>
 
 <script>
-import download from "./components/Download"
 
 // const mainColor = "#A900FF"
+import VDownload from "@/components/v-download";
+import OtlCode from "@/components/edit/otl-code";
+import OtlP from "@/components/code-color/otl-p"
+
 export default {
   name: 'App',
   components: {
-    download
+    OtlP,
+    OtlCode,
+    VDownload
   },
   data() {
     return {
@@ -69,7 +77,7 @@ export default {
 }
 
 body {
-  margin-top: 100px;
+  margin-top: 70px;
 }
 
 /*배너 정의*/
@@ -78,11 +86,11 @@ body {
   display: flex;
   left: 0;
   right: 0;
+  top: 0;
   justify-content: space-between;
   align-items: center;
   background: #ce80ff;
   height: 70px;
-  top: 0;
 }
 
 .header-top img {
@@ -116,6 +124,7 @@ body {
 
 .menu a {
   color: black;
+  display: block;
 }
 
 .submenu > li {
