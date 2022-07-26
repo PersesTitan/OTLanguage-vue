@@ -1,5 +1,5 @@
 <template>
-  <span>
+  <span class="p">
     <slot/>
   </span>
 </template>
@@ -11,7 +11,7 @@ export default {
 </script>
 
 <style scoped>
-span {
+.p {
   color: mediumpurple;
   font-weight: bolder;
 }
