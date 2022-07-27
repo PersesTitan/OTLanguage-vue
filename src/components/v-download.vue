@@ -11,6 +11,7 @@
 
   <otl-hr id="pos-mac">Mac</otl-hr>
   <div class="dl-icon-os">
+    <!-- 다운로드 -->
     <h3 class="dl">다운로드</h3>
     <p>
       <a href="https://git-scm.com/downloads" style="font-weight: bolder">Git</a>으로 코드를 받아오기 때문에 다운로드 전&nbsp;
@@ -19,23 +20,23 @@
       <br>설치후 터미널을 다시 실행해주시면 다운로드 받은 세팅을 사용할 수 있습니다.
     </p>
     <otl-code class="otl-code">{{ downloadLink }}</otl-code>
-
+    <!-- 삭제 -->
+    <br>
     <h3 class="dl">삭제</h3>
     <p>
       터미널에 다음 코드를 입력해주시면 자동으로 제거가 됩니다.
       <br>입력후 터미널을 재시작하시고 <span style="font-weight: bold">otl</span>을 입력했을때 제거가 되었다면 인식할 수 없는 키워드로 인식하면 제거에 성공한 것 입니다.
     </p>
     <otl-code class="otl-code"><otl-g>otl</otl-g> uninstall</otl-code>
-
+    <!-- 실행 -->
+    <br>
     <h3 class="dl">실행</h3>
     <p>
       그냥 <span style="font-weight: bold">otl</span>만 입력했을때 1줄씩 입력을 받습니다.
       <br>현재 한글 입력에 문제가 있으므로 참고 해주세요. (글자를 지울때 일부가 안 지워질때가 있습니다. 한번에 입력하면 문제없이 작동합니다.)
     </p>
     <otl-code><otl-g>otl</otl-g></otl-code>
-    <p>
-      현재 위치에서 파일 이름을 입력하면 해당 파일을 실행할 수 있습니다.
-    </p>
+    <p>현재 위치에서 파일 이름을 입력하면 해당 파일을 실행할 수 있습니다.</p>
     <otl-code class="otl-code"><otl-g>otl</otl-g> &lt;파일명&gt;</otl-code>
   </div>
   <!-- Mac 코드 -->
@@ -46,9 +47,57 @@
   <!-- Window 코드 -->
 
   <otl-hr id="pos-linux">Linux</otl-hr>
+  <div class="dl-icon-os">
+    <h3 class="dl" style="color: red">동작 미확인</h3>
+    <!-- 다운로드 -->
+    <h3 class="dl">다운로드</h3>
+    <p>
+      <a href="https://git-scm.com/downloads" style="font-weight: bolder">Git</a>으로 코드를 받아오기 때문에 다운로드 전&nbsp;
+      <a href="https://git-scm.com/downloads" style="font-weight: bolder">Git</a>이 미리 설치되어 있어야 합니다.
+      <br>터미널에 다음 코드를 입력해주시면 세팅과 설치가 자동으로 됩니다.
+      <br>설치후 터미널을 다시 실행해주시면 다운로드 받은 세팅을 사용할 수 있습니다.
+    </p>
+    <otl-code class="otl-code">{{ downloadLink }}</otl-code>
+    <!-- 삭제 -->
+    <br>
+    <h3 class="dl">삭제</h3>
+    <p>
+      터미널에 다음 코드를 입력해주시면 자동으로 제거가 됩니다.
+      <br>입력후 터미널을 재시작하시고 <span style="font-weight: bold">otl</span>을 입력했을때 제거가 되었다면 인식할 수 없는 키워드로 인식하면 제거에 성공한 것 입니다.
+    </p>
+    <otl-code class="otl-code"><otl-g>otl</otl-g> uninstall</otl-code>
+    <!-- 실행 -->
+    <br>
+    <h3 class="dl">실행</h3>
+    <p>
+      그냥 <span style="font-weight: bold">otl</span>만 입력했을때 1줄씩 입력을 받습니다.
+      <br>현재 한글 입력에 문제가 있으므로 참고 해주세요. (글자를 지울때 일부가 안 지워질때가 있습니다. 한번에 입력하면 문제없이 작동합니다.)
+    </p>
+    <otl-code><otl-g>otl</otl-g></otl-code>
+    <p>현재 위치에서 파일 이름을 입력하면 해당 파일을 실행할 수 있습니다.</p>
+    <otl-code class="otl-code"><otl-g>otl</otl-g> &lt;파일명&gt;</otl-code>
+  </div>
   <!-- Linux 코드 -->
 
   <otl-hr id="pos-android">Android</otl-hr>
+  <div class="dl-icon-os">
+    <h3 style="color: red">업데이트 준비 중</h3>
+    <p>수동 저장 버튼 - 현재 내용을 저장하는 버튼</p>
+    <img src="../assets/android/1.jpeg" alt="">
+    <p>저장 버튼 - 수동 저장, 자동 저장한 내용을 불러오는 버튼</p>
+    <img src="../assets/android/2.jpeg" alt="">
+    <p>내보내기 버튼 - 현재 내용을 .otl파일로 만드는 버튼 (경로 - 내장메모리/OTLanguage)</p>
+    <img src="../assets/android/3.jpeg" alt="">
+    <p>불러오기 버튼 - 경로에 있는 .otl파일을 불러오는 버튼 (경로 - 내장메모리/OTLanguage)</p>
+    <img src="../assets/android/4.jpeg" alt="">
+    <p>출력내용 삭제 버튼 - 동작 후 출력된 글자를 제거하는 버튼</p>
+    <img src="../assets/android/5.jpeg" alt="">
+    <p>자동 저장 - 활동화시 자동 저장, 가져오기를 해주는 스위치</p>
+    <img src="../assets/android/6.jpeg" alt="">
+    <p>시작 버튼 - 코드를 실행시키는 버튼 (동작중에는 멈춤 버튼으로 표시됨)</p>
+    <img src="../assets/android/7.jpeg" alt="">
+
+  </div>
   <!-- Android 코드 -->
 
 </template>
@@ -92,14 +141,11 @@ export default {
 
 <style scoped>
 .dl, .dl-menu {
-  /*display: flex;*/
   margin-left: 10px;
   margin-right: 10px;
 }
 
 div.dl-icon-os {
-  /*margin-left: 50px;*/
-  /*margin-right: 50px;*/
   margin: auto;
   width: 90%;
   padding-top: 30px;
@@ -109,9 +155,11 @@ div.dl-icon-os {
 div.dl-icon-os > p {
   margin-right: 50px;
   margin-left: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
-h1.dl, h2.dl, h3.dl {
+h1.dl, h2.dl, h3.dl, div.dl-icon-os {
   text-align: center;
 }
 
