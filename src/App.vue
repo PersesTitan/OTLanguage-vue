@@ -1,37 +1,44 @@
 <template>
-  <header class="header-top">
-    <img :src="require(`@/assets/banner/${ path }-banner.png`)"
-         alt="/{{ path }}">
+  <div v-if="path === ''">
+    <otl-main/>
+  </div>
 
-    <ul class="menu">
-      <li>
-        <a href="/Music">Music</a>
-        <ul class="submenu">
-          <li><a>개요</a></li>
-          <li><a>다운로드</a></li>
-        </ul>
-      </li>
-      <li>
-        <a href="/Poison">Poison</a>
-        <ul class="submenu">
-          <li><a>개요</a></li>
-          <li><a>다운로드</a></li>
-        </ul>
-      </li>
-      <li>
-        <a href="/OTLanguage">OTLanguage</a>
-        <ul class="submenu">
-          <li><a href="/OTLanguage">소계</a></li>
-          <li><a href="/OTLanguage">개요</a></li>
-          <li><a href="/OTLanguage">다운로드</a></li>
-          <li><a href="/OTLanguage">문법</a></li>
-          <li><a href="/OTLanguage">정보</a></li>
-        </ul>
-      </li>
-    </ul>
-  </header>
+  <div v-else>
+    <header class="header-top">
+      <img :src="require(`@/assets/banner/${ path }-banner.png`)" alt="/{{ path }}">
+      <ul class="menu">
+        <li>
+          <a href="/Music">Music</a>
+          <ul class="submenu">
+            <li><a>개요</a></li>
+            <li><a>다운로드</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="/Poison">Poison</a>
+          <ul class="submenu">
+            <li><a>개요</a></li>
+            <li><a>다운로드</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="/OTLanguage">OTLanguage</a>
+          <ul class="submenu">
+            <li><a href="/OTLanguage">소개</a></li>
+            <li><a href="/OTLanguage">개요</a></li>
+            <li><a href="/OTLanguage/download">다운로드</a></li>
+            <li><a href="/OTLanguage">문법</a></li>
+            <li><a href="/OTLanguage">정보</a></li>
+          </ul>
+        </li>
+      </ul>
+    </header>
+  </div>
 
-  <v-download/>
+  <div v-if="subLink === 'download'">
+    <v-download/>
+  </div>
+
   <otl-code>
     <otl-p>ㅅㅁㅅ</otl-p>&nbsp;안녕하세요.
   </otl-code>
@@ -44,10 +51,12 @@
 import VDownload from "@/components/v-download";
 import OtlCode from "@/components/edit/otl-code";
 import OtlP from "@/components/code-color/otl-p"
+import OtlMain from "@/components/otl-main";
 
 export default {
   name: 'App',
   components: {
+    OtlMain,
     OtlP,
     OtlCode,
     VDownload
@@ -58,26 +67,21 @@ export default {
       music_link : "/Music",
       poison_link : "/Poison",
       kind : "OTLanguage",
-      path : window.location.pathname.split('/')[1]
+      path : window.location.pathname.split('/')[1],
+      subLink : window.location.pathname.split('/')[2] //download, subtotal, ...
     }
+  },
+  updated() {
+    const ele = document.getElementsByTagName('body')
+    if (this.path === '') ele.style.marginTop = '0px'
+    else ele.style.marginTop = '70px'
   }
 }
-
-
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-
 body {
-  margin-top: 70px;
+  margin: 0;
 }
 
 /*배너 정의*/
