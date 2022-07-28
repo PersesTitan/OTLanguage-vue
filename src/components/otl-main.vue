@@ -18,16 +18,57 @@
   </div>
 
   <div class="main-middle">
-    <a class="banner" href="/OTLanguage"><img src="../assets/banner/OTLanguage-banner.png" alt="OTLanguage"></a>
-    <a class="banner" href="/Poison"><img src="../assets/banner/Poison-banner.png" alt="OTLanguage"></a>
+    <div class="sub-banner">
+      <otl-code class="otl-code">
+        <otl-o>ㅇㅁㅇ</otl-o>&nbsp;변수<otl-g>:</otl-g>Hello<br/>
+        <otl-p>ㅅㅁㅅ</otl-p>&nbsp;<otl-g>:</otl-g>변수&nbsp;World<br/>
+        <otl-p>ㅆㅁㅆ</otl-p>&nbsp;HelloWorld<br/><br/>
+        <otl-o>ㅇㅈㅇ</otl-o>&nbsp;정수<otl-g>:</otl-g>0<br/>
+        0<otl-g>^</otl-g>10<otl-g>^</otl-g>1&nbsp;{<br/>
+        &nbsp;&nbsp;&nbsp;정수<otl-g>:</otl-g>&nbsp;<otl-g>:</otl-g>정수&nbsp;&nbsp;<otl-g>ㅇ+ㅇ</otl-g>&nbsp;1<br/>
+        &nbsp;&nbsp;&nbsp;0<otl-g>^:</otl-g>정수&nbsp;<otl-g>^</otl-g>1&nbsp;{<br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<otl-p>ㅅㅁㅅ</otl-p>&nbsp;*<br/>
+        &nbsp;&nbsp;&nbsp;}<br/>
+        &nbsp;&nbsp;&nbsp;<otl-p>ㅆㅁㅆ</otl-p><br/>}
+      </otl-code>
+      <a class="banner" href="/OTLanguage"><img src="../assets/banner/OTLanguage-banner.png" alt="OTLanguage"></a>
+    </div>
+    <!-- OTLanguage -->
+    <div class="sub-banner">
+      <otl-code class="otl-code">
+        <otl-o>&lt;ㅇㅅㅇ&gt;&nbsp;</otl-o>소개페이지:OTLanguage 페이지에 어서오세요.<br/>
+        /&nbsp;<otl-p>&lt;ㅇㅅㅇ&lt;</otl-p>&nbsp;/index.html<br/>
+        /sub&nbsp;<otl-p>&lt;ㅇㅅㅇ&lt;</otl-p>&nbsp;/sub.html<br/>
+        <otl-p>&lt;&lt;ㅇㅅㅇ&gt;&gt; 9090</otl-p><br/>
+      </otl-code>
+      <a class="banner" href="/Poison"><img src="../assets/banner/Poison-banner.png" alt="OTLanguage"></a>
+    </div>
+    <!-- Poison -->
+    <div class="sub-banner">
+      <otl-code class="otl-code">
+
+      </otl-code>
     <a class="banner" href="/Music"><img src="../assets/banner/Music-banner.png" alt="OTLanguage"></a>
+    </div>
+    <!-- Music -->
   </div>
 
 </template>
 
 <script>
+import OtlCode from '@/components/edit/otl-code'
+import OtlP from '@/components/code-color/otl-p'
+import OtlO from '@/components/code-color/otl-o'
+import OtlG from '@/components/code-color/otl-g'
+
 export default {
   name: "otl-main",
+  components: {
+    OtlCode,
+    OtlP,
+    OtlO,
+    OtlG
+  },
   data() {
     return {
       otl: `<svg width="100" height="100" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg"><path d="M 4.6223162,33.419737 C 23.529722,22.603181 62.519305,0.4593497 62.519305,0.4593497 75.596281,-2.7323659 80.285458,11.424632 72.125173,20.792819 L 21.351335,49.674139 36.446256,115.59604 100.59968,126.21607 127.35886,62.754918 95.91111,33.096525 69.151932,59.258068 85.276042,82.829355 99.799195,68.453469 c 9.853675,-4.382093 18.419255,2.825117 13.265235,16.707124 L 89.507202,109.50895 c -3.006336,2.17594 -7.229026,2.24249 -11.435544,-0.38853 L 46.280828,62.884427 c -1.968627,-4.058066 -2.32237,-8.116119 0.686133,-12.174185 L 91.336895,8.2301057 c 2.70641,-2.3723256 5.412819,-1.2271521 8.119229,-0.1295654 L 146.68493,50.580677 c 3.97909,4.619282 3.93444,9.238565 2.17275,13.857848 L 115.35153,144.6068 c -2.06568,2.79992 -3.72211,5.94748 -9.83457,5.31003 L 27.98395,137.22459 c -2.855818,-0.38596 -5.645366,-0.15646 -9.377146,-8.67735 L 0.40600468,47.907599 C -0.70748043,41.932946 0.39670874,36.94848 4.6223162,33.419737 Z"/></svg>`,
@@ -45,6 +86,14 @@ div.main-middle {
   background: red;
 }
 
+.otl-code {
+  width: 40%;
+  margin-left: 30px;
+  margin-right: 30px;
+  display: inline-block;
+  text-align: left;
+}
+
 div.main-top {
   background: dimgray;
   padding: 100px 100px 200px 100px;
@@ -59,7 +108,12 @@ ul.otl-menu > li {display: inline-block;}
 
 a.banner {
   text-align: center;
-  display: block;
+  display: inline-block;
+  width: 50%;
+}
+
+.sub-banner {
+  text-align: center;
 }
 
 a.banner > img {
