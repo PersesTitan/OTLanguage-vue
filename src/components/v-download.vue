@@ -96,7 +96,6 @@
     <img src="../assets/android/6.jpeg" alt="">
     <p>시작 버튼 - 코드를 실행시키는 버튼 (동작중에는 멈춤 버튼으로 표시됨)</p>
     <img src="../assets/android/7.jpeg" alt="">
-
   </div>
   <!-- Android 코드 -->
 
