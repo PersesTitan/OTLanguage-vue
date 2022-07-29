@@ -9,14 +9,21 @@
   </div>
 
   <div class="body">
-    <div v-if="path === 'OTLanguage'">
+    <div v-if="path === 'Music'">
+      <music-information v-if="subLink === 'information'"/>
+      <v-download v-else-if="subLink === 'download'"/>
+    </div>
+
+    <div v-else-if="path === 'Poison'">
+      <poison-information v-if="subLink === 'information'"/>
+      <v-download v-else-if="subLink === 'download'"/>
+    </div>
+
+    <div v-else>
       <otl-grammar v-if="subLink === 'grammar'"/>
       <v-download v-else-if="subLink === 'download'"/>
       <otl-information v-else-if="subLink === 'information'"/>
-      <otl-introduce v-else/>
-    </div>
-    <div v-else-if="path === 'Poison'">
-      <poison-information v-if="subLink === 'information'"/>
+      <otl-introduce v-else-if="subLink === 'introduce'"/>
     </div>
   </div>
 </template>
@@ -31,10 +38,12 @@ import OtlGrammar from "@/components/otl/otl-grammar";
 import OtlIntroduce from "@/components/otl/otl-introduce";
 import OtlInformation from "@/components/otl/otl-information";
 import PoisonInformation from "@/components/poison/poison-information";
+import MusicInformation from "@/components/music/music-information";
 
 export default {
   name: 'App',
   components: {
+    MusicInformation,
     PoisonInformation,
     OtlInformation,
     OtlIntroduce,
@@ -53,19 +62,6 @@ export default {
       subLink : window.location.pathname.split('/')[2] //download, subtotal, ...
     }
   },
-  // updated() {
-  //   const ele = document.getElementsByTagName('body')
-  //   const app = document.getElementById('app')
-  //   if (this.path === '') {
-  //     ele.style.marginTop = 0
-  //     ele.style.margin = 0
-  //     app.style.marginTop = 0
-  //   } else {
-  //     ele.style.marginTop = 70
-  //     app.style.marginTop = 60
-  //   }
-  // }
-
   updated() {
     const app = document.getElementById('app')
     if (this.path === '') {
