@@ -33,10 +33,6 @@
 <script>
 export default {
   name: "otl-information",
-  data() {
-    return {
-    }
-  }
 }
 </script>
 
