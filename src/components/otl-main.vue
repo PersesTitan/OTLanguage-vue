@@ -26,7 +26,6 @@
         OTLanguage라는 단어는 OTL이라는 절망하는 이모티콘과 Language라는 언어라는 뜻을 합치고 중복되는 L은 1개로 만들어서 OTLanguage가 되었습니다.<br/>
         이 언어는 기본 타입이 문자열이기 때문에 큰 따옴표(")나 작은 따옴표(')를 사용하지 않는 등의 특징이 있습니다.
       </p>
-      <otl-menu main-link="/OTLanguage/" link1="introduce" link2="summary" link3="download" link4="grammar" link5="information"/>
     </div>
     <div class="sub-banner">
       <otl-code class="otl-code">
@@ -86,7 +85,6 @@
         <p>
           Music은 OTLanguage로 구현하는 음악 프로그램입니다.
         </p>
-        <otl-menu main-link="/Music/" link1="introduce" link2="summary" link3="download" link4="grammar" link5="information"/>
       </div>
     </div>
     <div class="sub-banner">
@@ -116,7 +114,6 @@ import OtlCode from '@/components/edit/otl-code'
 import OtlP from '@/components/code-color/otl-p'
 import OtlO from '@/components/code-color/otl-o'
 import OtlG from '@/components/code-color/otl-g'
-import OtlMenu from '@/components/edit/otl-menu'
 
 export default {
   name: "otl-main",
@@ -125,7 +122,6 @@ export default {
     OtlP,
     OtlO,
     OtlG,
-    OtlMenu
   },
   data() {
     return {

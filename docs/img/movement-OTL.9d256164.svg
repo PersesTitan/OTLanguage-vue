@@ -1,0 +1,869 @@
+<?xml version="1.0" standalone="no"?>
+<svg style="background: rgba(0,0,0,0)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.1" width="1884px" height="901px" viewBox="-0.5 -0.5 1884 901">
+    <defs>
+        <style>* {margin: 0px; padding: 0px;}</style>
+        <clipPath id="mx-clip-750-108-132-26-0">
+            <rect x="750" y="108" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-750-134-132-26-0">
+            <rect x="750" y="134" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-750-160-132-26-0">
+            <rect x="750" y="160" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-750-186-132-26-0">
+            <rect x="750" y="186" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-750-212-132-26-0">
+            <rect x="750" y="212" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-750-238-132-26-0">
+            <rect x="750" y="238" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-750-264-132-26-0">
+            <rect x="750" y="264" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-750-290-132-26-0">
+            <rect x="750" y="290" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-750-316-132-26-0">
+            <rect x="750" y="316" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-750-342-132-26-0">
+            <rect x="750" y="342" width="132" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 13 20 L 13 0 L 181 0 L 181 20" fill="rgba(0,0,0,0)" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 13 20 L 13 136 L 181 136 L 181 20" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 13 20 L 181 20" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="12px">
+            <text x="95.07" y="13.5">코드</text>
+        </g>
+        <path d="M 13 20 L 181 20 L 181 136 L 13 136 L 13 20 Z" fill="rgba(0,0,0,0)" stroke="none" pointer-events="none"/>
+        <path d="M 20 29.67 L 20 126.33 L 20 126.33 L 174 126.33 L 174 29.67 L 20 29.67" fill="rgba(0,0,0,0)" stroke="none"
+              pointer-events="none"/>
+        <path d="M 13 20 L 181 20 L 181 136 L 13 136 L 13 20 Z" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-size="12px">
+            <text x="14.5" y="37.5">ㅇㅅㅇ 변1:15.3</text>
+            <text x="14.5" y="51.5">ㅆㅁㅆ :변 출력</text>
+            <text x="14.5" y="65.5">(...)</text>
+            <text x="14.5" y="79.5">변:156.1</text>
+        </g>
+        <path d="M 325 162.5 L 325 142.5 L 493 142.5 L 493 162.5" fill="rgba(0,0,0,0)" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 325 162.5 L 325 278.5 L 493 278.5 L 493 162.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 325 162.5 L 493 162.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="12px">
+            <text x="407.07" y="156">Lexer</text>
+        </g>
+        <path d="M 325 162.5 L 493 162.5 L 493 278.5 L 325 278.5 L 325 162.5 Z" fill="rgba(0,0,0,0)" stroke="none"
+              pointer-events="none"/>
+        <path d="M 332 172.17 L 332 268.83 L 332 268.83 L 486 268.83 L 486 172.17 L 332 172.17" fill="rgba(0,0,0,0)"
+              stroke="none" pointer-events="none"/>
+        <path d="M 325 162.5 L 493 162.5 L 493 278.5 L 325 278.5 L 325 162.5 Z" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-size="12px">
+            <text x="326.5" y="180">ㅇㅅㅇ 변1:15.3</text>
+            <text x="326.5" y="208">ㅆㅁㅆ :변 출력</text>
+            <text x="326.5" y="236">(...)</text>
+            <text x="326.5" y="264">변:156.1</text>
+        </g>
+        <path d="M 1561 719.86 L 1580.86 719.86 L 1560.86 719.86 L 1575.13 719.86" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1580.38 719.86 L 1573.38 723.36 L 1575.13 719.86 L 1573.38 716.36 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1461" y="689.5" width="100" height="60" rx="4.2" ry="4.2" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1509.07" y="721.57">변수명 중복체크</text>
+        </g>
+        <path d="M 1632.29 689.5 L 1632.29 648.43 L 1548.87 648.43" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1543.62 648.43 L 1550.62 644.93 L 1548.87 648.43 L 1550.62 651.93 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1581.5" y="689.5" width="100" height="60" rx="4.2" ry="4.2" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1629.57" y="721.57">변수타입 체크</text>
+        </g>
+        <path d="M 745.5 102.5 L 745.5 76.5 L 885.5 76.5 L 885.5 102.5" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 745.5 102.5 L 745.5 362.5 L 885.5 362.5 L 885.5 102.5" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 745.5 102.5 L 885.5 102.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="813.57" y="93">분석기</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-750-108-132-26-0)" font-size="12px">
+            <text x="751" y="120">강제 출력</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-750-134-132-26-0)" font-size="12px">
+            <text x="751" y="146">변수 반환</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-750-160-132-26-0)" font-size="12px">
+            <text x="751" y="172">입력 반환</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-750-186-132-26-0)" font-size="12px">
+            <text x="751" y="198">램던 반환</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-750-212-132-26-0)" font-size="12px">
+            <text x="751" y="224">계산된 값 반환</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-750-238-132-26-0)" font-size="12px">
+            <text x="751" y="250">for, if 문</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-750-264-132-26-0)" font-size="12px">
+            <text x="751" y="276">출력 동작</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-750-290-132-26-0)" font-size="12px">
+            <text x="751" y="302">변수 정의 동작</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-750-316-132-26-0)" font-size="12px">
+            <text x="751" y="328">변수 값 업데이트</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-750-342-132-26-0)" font-size="12px">
+            <text x="751" y="354">(...)</text>
+        </g>
+        <path d="M 360 354.14 L 415.14 354.14 L 415.14 286.23" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 415.14 280.98 L 418.64 287.98 L 415.14 286.23 L 411.64 287.98 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="115" y="331" width="245" height="46" rx="3.22" ry="3.22" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="235.57" y="356.07">[ㅇㅅㅇ 변1:1.53, ㅆㅁㅆ :변 출력, ..., 변:156.1]</text>
+        </g>
+        <path d="M 294 219.86 L 315.14 219.86 L 318.63 219.86" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 323.88 219.86 L 316.88 223.36 L 318.63 219.86 L 316.88 216.36 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="41" y="191" width="112" height="60" rx="4.2" ry="4.2" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="95.07" y="223.07">중괄호 아이디로 저장</text>
+        </g>
+        <g transform="translate(5.5,265.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="183" height="26">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">값을 읽을 때 라인 단위로 읽기 때문에
+                        <br/>괄호 내용을 가지고 있는 아이디로 저장
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 98 136 L 98 162.71 L 98 184.63" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 98 189.88 L 94.5 182.88 L 98 184.63 L 101.5 182.88 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 238 230 L 238 279.86 L 238 324.63" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 238 329.88 L 234.5 322.88 L 238 324.63 L 241.5 322.88 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(185.5,214.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="103" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">라인 단위로 토큰 생성
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 153 219.86 L 172.29 219.86 L 174.63 219.86" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 179.88 219.86 L 172.88 223.36 L 174.63 219.86 L 172.88 216.36 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(398.5,120.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="21" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">렉서
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <g transform="translate(748.5,58.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="133" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">파서(Parser)와 유사한 기능
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 493 219.86 L 618 219.86 L 618 91.29 L 734.49 91.29" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 739.74 91.29 L 732.74 94.79 L 734.49 91.29 L 732.74 87.79 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 663.5 209.3 L 741.5 209.3 L 741.5 200 L 793.5 215.5 L 741.5 231 L 741.5 221.7 L 663.5 221.7 L 663.5 215.5 Z"
+              fill="rgba(0,0,0,0)" stroke="#000000" stroke-miterlimit="10" transform="rotate(90,728.5,215.5)"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="726.57" y="196.57">실</text>
+            <text x="726.57" y="210.57">행</text>
+            <text x="726.57" y="224.57">방</text>
+            <text x="726.57" y="238.57">향</text>
+        </g>
+        <path d="M 1141 114.14 L 1192.29 114.14 L 1192.29 19.86 L 1228.63 19.86" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1233.88 19.86 L 1226.88 23.36 L 1228.63 19.86 L 1226.88 16.36 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="927" y="103" width="100" height="24" rx="1.68" ry="1.68" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="975.07" y="117.07">구분 분석 및 확인</text>
+        </g>
+        <path d="M 885.5 114.14 L 906.57 114.14 L 920.63 114.14" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 925.88 114.14 L 918.88 117.64 L 920.63 114.14 L 918.88 110.64 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="927" y="130" width="100" height="24" rx="1.68" ry="1.68" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="975.07" y="144.07">구분 분석 및 확인</text>
+        </g>
+        <path d="M 886.57 142.71 L 906.57 142.95 L 920.2 142.79" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 925.45 142.73 L 918.49 146.31 L 920.2 142.79 L 918.41 139.31 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="927" y="156" width="100" height="24" rx="1.68" ry="1.68" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="975.07" y="170.07">구분 분석 및 확인</text>
+        </g>
+        <path d="M 885.5 168 L 906.57 168.43 L 920.63 168.43" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 925.88 168.43 L 918.88 171.93 L 920.63 168.43 L 918.88 164.93 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="927" y="182" width="100" height="24" rx="1.68" ry="1.68" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="975.07" y="196.07">구분 분석 및 확인</text>
+        </g>
+        <path d="M 885.5 194 L 906.57 194.14 L 920.63 194.14" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 925.88 194.14 L 918.88 197.64 L 920.63 194.14 L 918.88 190.64 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="927" y="208" width="100" height="24" rx="1.68" ry="1.68" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="975.07" y="222.07">구분 분석 및 확인</text>
+        </g>
+        <path d="M 885.5 220 L 906.57 219.86 L 920.63 219.86" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 925.88 219.86 L 918.88 223.36 L 920.63 219.86 L 918.88 216.36 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="927" y="234" width="100" height="24" rx="1.68" ry="1.68" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="975.07" y="248.07">구분 분석 및 확인</text>
+        </g>
+        <path d="M 885.5 246 L 906.57 245.57 L 920.63 245.57" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 925.88 245.57 L 918.88 249.07 L 920.63 245.57 L 918.88 242.07 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="927" y="260" width="100" height="24" rx="1.68" ry="1.68" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="975.07" y="274.07">구분 분석 및 확인</text>
+        </g>
+        <path d="M 885.5 272 L 906.57 271.29 L 920.63 271.29" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 925.88 271.29 L 918.88 274.79 L 920.63 271.29 L 918.88 267.79 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="927" y="286" width="100" height="24" rx="1.68" ry="1.68" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="975.07" y="300.07">구분 분석 및 확인</text>
+        </g>
+        <path d="M 885.5 298 L 906.57 297 L 920.63 297" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 925.88 297 L 918.88 300.5 L 920.63 297 L 918.88 293.5 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="927" y="311.5" width="100" height="24" rx="1.68" ry="1.68" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="975.07" y="325.57">구분 분석 및 확인</text>
+        </g>
+        <path d="M 885.5 322.71 L 906.57 322.71 L 920.63 322.71" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 925.88 322.71 L 918.88 326.21 L 920.63 322.71 L 918.88 319.21 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1397 19.86 L 1418 19.86 L 1400.86 19.86 L 1413.13 19.86" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1418.38 19.86 L 1411.38 23.36 L 1413.13 19.86 L 1411.38 16.36 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1235" y="2.5" width="162" height="35" rx="2.45" ry="2.45" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1314.07" y="15.07">[!ㅅㅁㅅ!] [ㅅㅇㅅ안녕하세요]</text>
+            <text x="1314.07" y="29.07">[출력] [출력될 문장] </text>
+        </g>
+        <g transform="translate(1056.5,109.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="79" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">일치시 동작 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1027 114.14 L 1046.57 114.14 L 1045.63 114.14" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1050.88 114.14 L 1043.88 117.64 L 1045.63 114.14 L 1043.88 110.64 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1140.86 142.71 L 1215.14 142.71 L 1215.14 71.29 L 1228.77 71.29" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1234.02 71.29 L 1227.02 74.79 L 1228.77 71.29 L 1227.02 67.79 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1056.5,135.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="79" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">일치시 동작 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1027 141.67 L 1046.57 142.71 L 1045.63 142.71" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1050.88 142.71 L 1043.88 146.21 L 1045.63 142.71 L 1043.88 139.21 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1424.5,13.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="45" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">동작 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1335 74 L 1515.63 74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1520.88 74 L 1513.88 77.5 L 1515.63 74 L 1513.88 70.5 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1235" y="62" width="100" height="24" rx="1.68" ry="1.68" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1283.07" y="76.07">ㅆㅁㅆ :변 녕하세요</text>
+        </g>
+        <path d="M 1692.29 148.5 L 1692.29 117 L 1692.29 92.37" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1692.29 87.12 L 1695.79 94.12 L 1692.29 92.37 L 1688.79 94.12 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1522" y="62" width="100" height="24" rx="1.68" ry="1.68" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1570.07" y="76.07">:변[공백] -&gt; 변</text>
+        </g>
+        <path d="M 1572 160.5 L 1572 214.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1572 219.88 L 1568.5 212.88 L 1572 214.63 L 1575.5 212.88 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1566.5,145.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="10" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">변
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1572 86 L 1572 136.13" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1572 141.38 L 1568.5 134.38 L 1572 136.13 L 1575.5 134.38 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1641.5" y="61" width="100" height="25" rx="1.75" ry="1.75" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1689.57" y="75.57">ㅆㅁㅆ 안녕하세요</text>
+        </g>
+        <g transform="translate(1623.5,151.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="135" height="26">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">저장소에 '변'이라는 변수가<br/>저장
+                        되어있을때 값을 꺼내옴
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1140.86 171.29 L 1180.86 170 L 1214.49 171.08" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1219.74 171.25 L 1212.63 174.52 L 1214.49 171.08 L 1212.86 167.53 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1056.5,163.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="79" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">일치시 동작 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1027 169 L 1046.57 168.43 L 1045.63 168.43" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1050.88 168.43 L 1043.88 171.93 L 1045.63 168.43 L 1043.88 164.93 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1141 197 L 1203.71 197 L 1203.71 231.29 L 1215.13 231.29" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1220.38 231.29 L 1213.38 234.79 L 1215.13 231.29 L 1213.38 227.79 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1056.5,189.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="79" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">일치시 동작 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1027 195.67 L 1046.57 197 L 1045.63 197" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1050.88 197 L 1043.88 200.5 L 1045.63 197 L 1043.88 193.5 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1307.5 168.43 L 1346.57 168.43 L 1378.63 168.43" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1383.88 168.43 L 1376.88 171.93 L 1378.63 168.43 L 1376.88 164.93 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1221.5" y="143.5" width="86" height="51" rx="3.57" ry="3.57" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1262.57" y="157.07">ㅅㅇㅅ입니다.</text>
+            <text x="1262.57" y="171.07">[ㅅㅇㅅ][입니다.]</text>
+            <text x="1262.57" y="185.07">[입력][기타]</text>
+        </g>
+        <path d="M 1622 251.29 L 1692.29 251.29 L 1692.29 186.87" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1692.29 181.62 L 1695.79 188.62 L 1692.29 186.87 L 1688.79 188.62 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1622 251.29 L 1692.29 251.29 L 1692.29 411.29 L 1555.14 411.29 L 1555.14 426.13" fill="none"
+              stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1555.14 431.38 L 1551.64 424.38 L 1555.14 426.13 L 1558.64 424.38 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1560.5 281 L 1528 281 Q 1522 281 1524.15 275.4 L 1542.85 226.6 Q 1545 221 1551 221 L 1616 221 Q 1622 221 1619.85 226.6 L 1601.15 275.4 Q 1599 281 1593 281 Z"
+              fill="rgba(0,0,0,0)" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1570.07" y="246.07">Repository</text>
+            <text x="1570.07" y="260.07">(저장소)</text>
+        </g>
+        <path d="M 1740.86 74.14 L 1792.29 74.14 L 1811.63 74.14" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1816.88 74.14 L 1809.88 77.64 L 1811.63 74.14 L 1809.88 70.64 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1822.5,67.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="55" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">다음줄 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <rect x="1385" y="155.5" width="63" height="27" rx="1.89" ry="1.89" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1414.57" y="171.07">사람입니다.</text>
+        </g>
+        <g transform="translate(1318.5,153.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="48" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">입력: 사람
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1446.57 168.43 L 1446.57 171.29 L 1485.92 171.29" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1491.17 171.29 L 1484.17 174.79 L 1485.92 171.29 L 1484.17 167.79 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1494.5,164.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="55" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">다음줄 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1141 219.86 L 1192.29 219.86 L 1192.29 351.29 L 1214.63 351.29" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1219.88 351.29 L 1212.88 354.79 L 1214.63 351.29 L 1212.88 347.79 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1056.5,213.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="79" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">일치시 동작 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1027 219.67 L 1046.57 219.86 L 1045.63 219.86" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1050.88 219.86 L 1043.88 223.36 L 1045.63 219.86 L 1043.88 216.36 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1141 248.43 L 1189.43 248.43 L 1189.43 445.57 L 1214.63 445.57" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1219.88 445.57 L 1212.88 449.07 L 1214.63 445.57 L 1212.88 442.07 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1056.5,240.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="79" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">일치시 동작 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1027 246.17 L 1046.57 245.57 L 1045.63 245.57" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1050.88 245.57 L 1043.88 249.07 L 1045.63 245.57 L 1043.88 242.07 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1141 274.14 L 1183.71 274.14 L 1183.71 634.14 L 1215.13 634.14" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1220.38 634.14 L 1213.38 637.64 L 1215.13 634.14 L 1213.38 630.64 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1056.5,267.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="79" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">일치시 동작 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1027 273.5 L 1046.57 274.14 L 1045.63 274.14" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1050.88 274.14 L 1043.88 277.64 L 1045.63 274.14 L 1043.88 270.64 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1141 299.86 L 1175.14 299.86 L 1175.14 719.86 L 1192.63 719.86" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1197.88 719.86 L 1190.88 723.36 L 1192.63 719.86 L 1190.88 716.36 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1056.5,294.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="79" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">일치시 동작 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1027 300.17 L 1046.57 299.86 L 1045.63 299.86" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1050.88 299.86 L 1043.88 303.36 L 1045.63 299.86 L 1043.88 296.36 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1364.5 231.29 L 1435.14 231.29 L 1435.14 279.63" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1435.14 284.88 L 1431.64 277.88 L 1435.14 279.63 L 1438.64 277.88 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1221.5" y="205" width="143" height="55" rx="3.85" ry="3.85" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1291.07" y="220.57">ㅅㅁㅅ 숫자:@ㅈ@</text>
+            <text x="1291.07" y="234.57">[ㅅㅁㅅ] [숫자:][@ㅈ@]</text>
+            <text x="1291.07" y="248.57">&lt;출력&gt; &lt;문자&gt;&lt;램던&gt;</text>
+        </g>
+        <rect x="1385" y="286" width="100" height="26" rx="1.82" ry="1.82" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1433.07" y="301.07">ㅅㅁㅅ 숫자:1623</text>
+        </g>
+        <g transform="translate(1386.5,206.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="59" height="18">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">램던 값 생성<br/>@ㅈ@ -&gt;
+                        1623
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1365 348.43 L 1423.71 348.43 L 1474.63 348.43" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1479.88 348.43 L 1472.88 351.93 L 1474.63 348.43 L 1472.88 344.93 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1221" y="326" width="144" height="47" rx="3.29" ry="3.29" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1291.07" y="337.57">10 ㅇ+ㅇ 1</text>
+            <text x="1291.07" y="351.57">[10] [ㅇ+ㅇ] [1]</text>
+            <text x="1291.07" y="365.57">&lt;숫자&gt; &lt;덧셈&gt; &lt;숫자&gt;</text>
+        </g>
+        <rect x="1481" y="339" width="83" height="21" rx="1.47" ry="1.47" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1520.57" y="351.57">11</text>
+        </g>
+        <g transform="translate(1615.5,292.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="51" height="11">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">다음줄 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1485 299.86 L 1549.43 299.86 L 1606.63 299.09" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1611.88 299.02 L 1604.93 302.61 L 1606.63 299.09 L 1604.84 295.61 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1563.71 348.43 L 1608.77 348.43" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1614.02 348.43 L 1607.02 351.93 L 1608.77 348.43 L 1607.02 344.93 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1618.5,343.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="51" height="11">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">다음줄 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1141 322.71 L 1160.86 322.71 L 1160.86 822.71 L 1192.63 822.71" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1197.88 822.71 L 1190.88 826.21 L 1192.63 822.71 L 1190.88 819.21 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1056.5,317.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="79" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">일치시 동작 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1027 323.17 L 1046.57 322.71 L 1045.63 322.71" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1050.88 322.71 L 1043.88 326.21 L 1045.63 322.71 L 1043.88 319.21 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1419 445.57 L 1469.43 445.57 L 1513.63 445.57" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1518.88 445.57 L 1511.88 449.07 L 1513.63 445.57 L 1511.88 442.07 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1221" y="418" width="198" height="56" rx="3.92" ry="3.92" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1318.07" y="434.07">0^10^1 1A52G-df3...</text>
+            <text x="1318.07" y="448.07">[0][^][10][^][1] [1A52G-df3..]</text>
+            <text x="1318.07" y="462.07">&lt;숫자&gt;&lt;^&gt;&lt;숫자&gt;&lt;^&gt;&lt;숫자&gt; &lt;아이디&gt;</text>
+        </g>
+        <path d="M 1554.5 459.5 L 1554.5 501.63" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1554.5 506.88 L 1551 499.88 L 1554.5 501.63 L 1558 499.88 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1520" y="432.5" width="69" height="27" rx="1.89" ry="1.89" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1552.57" y="448.07">괄호 아이디</text>
+        </g>
+        <path d="M 1555.14 535 L 1555.14 554.14 L 1555.14 567.63" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1555.14 572.88 L 1551.64 565.88 L 1555.14 567.63 L 1558.64 565.88 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1520" y="508" width="69" height="27" rx="1.89" ry="1.89" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1552.57" y="523.57">괄호 값</text>
+        </g>
+        <path d="M 1520 585.57 L 1320.86 585.57 L 1320.86 480.37" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1320.86 475.12 L 1324.36 482.12 L 1320.86 480.37 L 1317.36 482.12 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1520" y="574" width="69" height="25" rx="1.75" ry="1.75" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1552.57" y="588.57">분석기</text>
+        </g>
+        <g transform="translate(1423.5,431.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="51" height="11">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">아이디 전송
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <g transform="translate(1585.5,396.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="60" height="11">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">토큰 가져오기
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <g transform="translate(1559.5,546.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="19" height="11">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <g transform="translate(1559.5,467.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="51" height="24">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">저장소에서<br/>값 가져오기
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <g transform="translate(1391.5,543.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="47" height="37">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">1에서 시작<br/>10 미만<br/>
+                        1씩 증가
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <rect x="1221.5" y="604" width="153" height="60" rx="4.2" ry="4.2" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1296.07" y="622.07">ㅅㅁㅅ 안녕하세요</text>
+            <text x="1296.07" y="636.07">[ㅅㅁㅅ] [안녕하세요]</text>
+            <text x="1296.07" y="650.07">&lt;출력&gt; &lt;출력 내용&gt;</text>
+        </g>
+        <path d="M 1374.5 634 L 1395.14 634.14 L 1390.63 634.14" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1395.88 634.14 L 1388.88 637.64 L 1390.63 634.14 L 1388.88 630.64 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1401.5,627.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="45" height="12">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">동작 실행
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1385 719.5 L 1454.63 719.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1459.88 719.5 L 1452.88 723 L 1454.63 719.5 L 1452.88 716 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1199" y="689.5" width="186" height="60" rx="4.2" ry="4.2" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1290.07" y="707.57">ㅇㅁㅇ 변:안녕</text>
+            <text x="1290.07" y="721.57">[ㅇㅁㅇ] [변][:][안녕]</text>
+            <text x="1290.07" y="735.57">&lt;변수 정의&gt; &lt;변수명&gt;:&lt;초기값&gt;</text>
+        </g>
+        <path d="M 1512.29 664 L 1512.29 685.57 L 1512.29 683.13" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1512.29 688.38 L 1508.79 681.38 L 1512.29 683.13 L 1515.79 681.38 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1484.5,636.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="53" height="24">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">Repository<br/>저장소
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <g transform="translate(1397.5,705.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="32" height="11">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">값 전송
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <g transform="translate(1559.5,634.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="85" height="11">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">이상 없을때 값 저장
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1299 825.57 L 1318 825.57 L 1318 822.71 L 1315.63 822.71" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1320.88 822.71 L 1313.88 826.21 L 1315.63 822.71 L 1313.88 819.21 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1199" y="794" width="100" height="60" rx="4.2" ry="4.2" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1247.07" y="812.07">변:하세요</text>
+            <text x="1247.07" y="826.07">[변][:][하세요]</text>
+            <text x="1247.07" y="840.07">&lt;변수명&gt;:&lt;값&gt;</text>
+        </g>
+        <path d="M 1372.29 869.5 L 1372.29 848.43 L 1372.29 859.86 L 1372.29 844.87" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1372.29 839.62 L 1375.79 846.62 L 1372.29 844.87 L 1368.79 846.62 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1345.5,872.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="53" height="24">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">Repository<br/>저장소
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1422 822.71 L 1440.86 822.71 L 1440.86 885.57 L 1410.08 885.57" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1404.83 885.57 L 1411.83 882.07 L 1410.08 885.57 L 1411.83 889.07 Z" fill="#000000" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1322" y="809.5" width="100" height="29" rx="2.03" ry="2.03" fill="rgba(0,0,0,0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1370.07" y="826.07">변수명 존재 체크</text>
+        </g>
+        <g transform="translate(1449.5,842.5)">
+            <foreignObject style="overflow:visible;" pointer-events="all" width="41" height="24">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">변수 값<br/> 업데이트
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+    </g>
+</svg>

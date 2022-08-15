@@ -23,7 +23,6 @@
       <otl-grammar v-if="subLink === 'grammar'"/>
       <v-download v-else-if="subLink === 'download'"/>
       <otl-information v-else-if="subLink === 'information'"/>
-      <otl-introduce v-else-if="subLink === 'introduce'"/>
     </div>
   </div>
 </template>
@@ -35,7 +34,6 @@ import VDownload from "@/components/v-download";
 import OtlMain from "@/components/otl-main";
 import OtlHeader from "@/components/edit/otl-header"
 import OtlGrammar from "@/components/otl/otl-grammar";
-import OtlIntroduce from "@/components/otl/otl-introduce";
 import OtlInformation from "@/components/otl/otl-information";
 import PoisonInformation from "@/components/poison/poison-information";
 import MusicInformation from "@/components/music/music-information";
@@ -46,7 +44,6 @@ export default {
     MusicInformation,
     PoisonInformation,
     OtlInformation,
-    OtlIntroduce,
     OtlGrammar,
     OtlMain,
     VDownload,
