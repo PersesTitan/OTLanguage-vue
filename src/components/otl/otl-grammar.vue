@@ -39,9 +39,9 @@ export default {
   components: {PoiWeb, PoiDatabase, OtlSing, OtlClass, OtlVariable, GrammerList, OtlConsole},
   data() {
     return {
-      url: window.location.pathname.split('/')[1], //Poison, OTLanguage
-      kind: window.location.pathname.split('/')[3], //console, normal, ...
-      more: decodeURIComponent(window.location.pathname.split('/')[4]),
+      url: window.location.pathname.split('/')[2], //Poison, OTLanguage
+      kind: window.location.pathname.split('/')[4], //console, normal, ...
+      more: decodeURIComponent(window.location.pathname.split('/')[5]),
       link: "/OTLanguage/grammar/",
       OTLanguage: "OTLanguage",
       Poison: "Poison",
