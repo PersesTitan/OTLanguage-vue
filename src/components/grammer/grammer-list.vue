@@ -120,7 +120,7 @@ export default {
   name: "grammer-list",
   data() {
     return {
-      path : window.location.pathname.split('/')[4], // sing, console, variable, ...
+      path : window.location.pathname.split('/')[3], // sing, console, variable, ...
       console: "console",
       variable: "variable",
       class: "class",
