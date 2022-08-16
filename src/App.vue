@@ -6,26 +6,32 @@
     <header>
       <otl-header/>
     </header>
+    <div style="margin-top: 70px">
+      <div v-if="path === 'Music'">
+        <music-information v-if="subLink === 'information'"/> <!-- 정보 페이지 -->
+        <otl-grammar v-else-if="subLink === 'grammar'"/> <!-- 문법 페이지 -->
+        <v-download v-else-if="subLink === 'download'"/> <!-- 다운로드 페이지 -->
+        <music-summary v-else-if="subLink === 'github'"/> <!-- 깃허브 -->
+      </div>
+
+      <div v-else-if="path === 'Poison'">
+        <poison-information v-if="subLink === 'information'"/> <!-- 정보 페이지 -->
+        <v-download v-else-if="subLink === 'download'"/> <!-- 다운로드 페이지 -->
+        <poison-summary v-else-if="subLink === 'github'"/> <!-- 깃허브 -->
+        <otl-grammar v-else-if="subLink === 'grammar'"/> <!-- 문법 페이지 -->
+        <poison-introduce v-else/> <!-- 소계 페이지 -->
+      </div>
+
+      <div v-else>
+        <otl-grammar v-if="subLink === 'grammar'"/> <!-- 문법 페이지 -->
+        <v-download v-else-if="subLink === 'download'"/> <!-- 다운로드 페이지 -->
+        <otl-information v-else-if="subLink === 'information'"/> <!-- 정보페이지 -->
+        <otl-summary v-else-if="subLink === 'github'"/> <!-- 깃허브 -->
+        <otl-introduce v-else/> <!-- 소계 페이지 -->
+      </div>
+    </div>
   </div>
-
-  <div class="body">
-    <div v-if="path === 'Music'">
-      <music-information v-if="subLink === 'information'"/>
-      <v-download v-else-if="subLink === 'download'"/>
-    </div>
-
-    <div v-else-if="path === 'Poison'">
-      <poison-information v-if="subLink === 'information'"/>
-      <v-download v-else-if="subLink === 'download'"/>
-    </div>
-
-    <div v-else>
-      <otl-grammar v-if="subLink === 'grammar'"/>
-      <v-download v-else-if="subLink === 'download'"/>
-      <otl-information v-else-if="subLink === 'information'"/>
-      <otl-introduce v-else-if="subLink === 'introduce'"/>
-    </div>
-  </div>
+  
 </template>
 
 <script>
@@ -39,10 +45,18 @@ import OtlIntroduce from "@/components/otl/otl-introduce";
 import OtlInformation from "@/components/otl/otl-information";
 import PoisonInformation from "@/components/poison/poison-information";
 import MusicInformation from "@/components/music/music-information";
+import OtlSummary from "@/components/otl/otl-summary";
+import PoisonSummary from "@/components/poison/poison-summary";
+import MusicSummary from "@/components/music/music-summary";
+import PoisonIntroduce from "@/components/poison/poison-introduce";
 
 export default {
   name: 'App',
   components: {
+    PoisonIntroduce,
+    MusicSummary,
+    PoisonSummary,
+    OtlSummary,
     MusicInformation,
     PoisonInformation,
     OtlInformation,
@@ -61,14 +75,6 @@ export default {
       path : window.location.pathname.split('/')[1], // OTLanguage, Poison, Music, ...
       subLink : window.location.pathname.split('/')[2] //download, subtotal, ...
     }
-  },
-  updated() {
-    const app = document.getElementById('app')
-    if (this.path === '') {
-      app.style.marginTop = "0px"
-    } else {
-      app.style.marginTop = "60px"
-    }
   }
 }
 </script>
@@ -84,11 +90,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  /*margin-top: 70px;*/
-}
-
-div.body {
-  /*margin-top: 70px;*/
 }
 
 .submenu li {

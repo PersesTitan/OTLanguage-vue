@@ -8,7 +8,7 @@
         <a v-bind:href="music_link">Music</a>
         <ul class="submenu">
           <li><a v-bind:href="music_link + int">소개</a></li>
-          <li><a v-bind:href="music_link + sum">개요</a></li>
+          <li><a v-bind:href="music_link + sum">Github</a></li>
           <li><a v-bind:href="music_link + dow">다운로드</a></li>
           <li><a v-bind:href="music_link + gra">문법</a></li>
           <li><a v-bind:href="music_link + inf">정보</a></li>
@@ -18,7 +18,7 @@
         <a v-bind:href="poison_link">Poison</a>
         <ul class="submenu">
           <li><a v-bind:href="poison_link + int">소개</a></li>
-          <li><a v-bind:href="poison_link + sum">개요</a></li>
+          <li><a v-bind:href="poison_link + sum">Github</a></li>
           <li><a v-bind:href="poison_link + dow">다운로드</a></li>
           <li><a v-bind:href="poison_link + gra">문법</a></li>
           <li><a v-bind:href="poison_link + inf">정보</a></li>
@@ -28,7 +28,7 @@
         <a v-bind:href="otl_link">OTLanguage</a>
         <ul class="submenu">
           <li><a v-bind:href="otl_link + int">소개</a></li>
-          <li><a v-bind:href="otl_link + sum">개요</a></li>
+          <li><a v-bind:href="otl_link + sum">Github</a></li>
           <li><a v-bind:href="otl_link + dow">다운로드</a></li>
           <li><a v-bind:href="otl_link + gra">문법</a></li>
           <li><a v-bind:href="otl_link + inf">정보</a></li>
@@ -48,7 +48,7 @@ export default {
       music_link : "/Music",
       poison_link : "/Poison",
       int: "/introduce",
-      sum: "/summary",
+      sum: "/github",
       dow: "/download",
       gra: "/grammar",
       inf: "/information",

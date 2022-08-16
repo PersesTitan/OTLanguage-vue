@@ -2,8 +2,8 @@
   <h1 style="margin-top: 100px">정보</h1>
   <div style="padding: 20px"/>
   <p>
-    개발 : Poison<br/>
-    종류 : 웹 프레임워크<br/>
+    개발 : Music<br/>
+    종류 : 음악 메이커<br/>
     창시자 : PersesTitan<br/>
     협력자 : - <br/>
     공식 Github Link : https://github.com/OTLanguage<br/>
