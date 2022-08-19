@@ -101,7 +101,7 @@
         <br/>
         <otl-p>ㅇ솔ㅇ</otl-p>
       </otl-code>
-      <a class="banner" href="/Music"><img src="../assets/banner/Music-banner.png" alt="OTLanguage"></a>
+      <a class="banner" href="/Music"><img src="@/assets/banner/Music-banner.png" alt="OTLanguage"></a>
     </div>
     <!-- Music -->
     <div style="padding-bottom: 100px"/>
